@@ -11,7 +11,9 @@ for(i=1;i<=n;i++)
  cout<<"sum is"<<s<<endl;
 
 
-
+erwrwer
+    sderwer
+    rttert
 
 
 
